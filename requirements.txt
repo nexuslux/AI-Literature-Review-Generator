@@ -1,0 +1,6 @@
+PyPDF2
+openai
+python-dotenv
+pydantic
+tqdm
+tenacity
